@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oluwatobi Ekundayo</h1>
-<h3 align="center">A 17 year old full stack web developer, data scientist and freshman engineering major</h3>
+<h3 align="center">Hey there, I'm Tobi
+
+I'm a 17 year old freshman at Ahmadu Bello University where I major in computer engineering. 
+
+Professionally, I'm a fullstack web developer, data scientist, automation expert and also a web scraper. I also dabble in other skills such as technical writing and UI/UX both of which I'm above average in. My stack is mainly centered around python and alot of JavaScript of frameworks. 
+
+One of my long term goals is to see that I help make the lives of people easier with the products I ship out.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobitheprof&label=Profile%20views&color=0e75b6&style=flat" alt="tobitheprof" /> </p>
 
