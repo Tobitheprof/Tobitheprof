@@ -16,7 +16,7 @@ I specialize in a wide range of technologies, including:
 ## Experience
 I have spent the past 4 years honing my skills and delivering high-quality solutions to clients. Through my experience, I have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently.
 
-Feel free to explore my [GitHub repositories](https://github.com/your-username) for examples of my work and projects utilizing my diverse skill set.
+Feel free to explore my [GitHub repositories](https://github.com/Tobitheprof) for examples of my work and projects utilizing my diverse skill set.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobitheprof&label=Profile%20views&color=0e75b6&style=flat" alt="tobitheprof" /> </p>
 
