@@ -9,7 +9,7 @@ I specialize in a wide range of technologies, including:
 
 - **AWS** and **Azure** for cloud computing and infrastructure management
 - **Django** and **FastAPI** for backend development
-- **LangChain** for blockchain development
+- **LangChain** for AI and LLM  development
 - **MongoDB** and **PostgreSQL** for database management
 - **React**, **Vue.js**, **Bootstrap**, **Tailwind**, and **Bulma** for frontend development
 
