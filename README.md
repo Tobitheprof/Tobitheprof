@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Oluwatobi Ekundayo</h1>
-<h3 align="center">Hey there, I'm Tobi
+# Professional Profile
 
-I'm a freshman at Ahmadu Bello University where I major in computer engineering. 
+## About Me
+I am a highly experienced software developer with a passion for building scalable and efficient web applications. With over 4 years of hands-on experience, I have developed a strong expertise in various technologies and frameworks.
 
-Professionally, I'm a fullstack web developer, data scientist, automation expert and also a web scraper. I also dabble in other skills such as technical writing and UI/UX both of which I'm above average in. My stack is mainly centered around python and alot of JavaScript of frameworks. 
+## My Stack
+I specialize in a wide range of technologies, including:
 
-One of my long term goals is to see that I help make the lives of people easier with the products I ship out.</h3>
+- **AWS** and **Azure** for cloud computing and infrastructure management
+- **Django** and **FastAPI** for backend development
+- **LangChain** for blockchain development
+- **MongoDB** and **PostgreSQL** for database management
+- **React**, **Vue.js**, **Bootstrap**, **Tailwind**, and **Bulma** for frontend development
+
+## Experience
+I have spent the past 4 years honing my skills and delivering high-quality solutions to clients. Through my experience, I have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently.
+
+Feel free to explore my [GitHub repositories](https://github.com/your-username) for examples of my work and projects utilizing my diverse skill set.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobitheprof&label=Profile%20views&color=0e75b6&style=flat" alt="tobitheprof" /> </p>
 
