@@ -2,7 +2,7 @@
 # Professional Profile
 
 ## About Me
-I am a highly experienced software developer with a passion for building scalable and efficient web applications. With over 4 years of hands-on experience, I have developed a strong expertise in various technologies and frameworks.
+I am a highly experienced software developer with a passion for building scalable and efficient web applications. With over 5 years of hands-on experience, I have developed a strong expertise in various technologies and frameworks.
 
 ## My Stack
 I specialize in a wide range of technologies, including:
