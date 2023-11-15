@@ -12,9 +12,10 @@ I specialize in a wide range of technologies, including:
 - **LangChain** for AI and LLM  development
 - **MongoDB** and **PostgreSQL** for database management
 - **React**, **Vue.js**, **Bootstrap**, **Tailwind**, and **Bulma** for frontend development
+- **Selenium**, **Playwright**, **Scrapy**, and **Splash** for web scraping and automation
 
 ## Experience
-I have spent the past 4 years honing my skills and delivering high-quality solutions to clients. Through my experience, I have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently.
+I have spent the past 5 years honing my skills and delivering high-quality solutions to clients. Through my experience, I have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently.
 
 Feel free to explore my [GitHub repositories](https://github.com/Tobitheprof) for examples of my work and projects utilizing my diverse skill set.
 
