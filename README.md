@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oluwatobi Ekundayo</h1>
-# Professional Profile
 
 ## About Me
 I am a highly experienced software developer with a passion for building scalable and efficient web applications. With over 5 years of hands-on experience, I have developed a strong expertise in various technologies and frameworks.
