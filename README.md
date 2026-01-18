@@ -24,7 +24,7 @@ Feel free to explore my [GitHub repositories](https://github.com/Tobitheprof) fo
 
 <p align="left"> <a href="https://twitter.com/tobitheprof" target="blank"><img src="https://img.shields.io/twitter/follow/tobitheprof?logo=twitter&style=for-the-badge" alt="tobitheprof" /></a> </p>
 
-- 🔭 I’m currently working on [ProgressWave](https://github.com/Tobitheprof/progresswave.git)
+- 🔭 I’m currently working on [Puntrr AI](https://puntrr.ai)
 
 - 🌱 I’m currently learning **Java, Flutter, Dart, Systems Architecture, Kernel Development, C, C++**
 
