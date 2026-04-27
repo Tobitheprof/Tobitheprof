@@ -1,45 +1,138 @@
-<h1 align="center">Hi 👋, I'm Oluwatobi Ekundayo</h1>
+```
+  _______  _____  ______  _  
+ |__   __||  _  ||  _  \| | 
+    | |   | | | || |_/ /| | 
+    | |   | | | ||    / | | 
+    | |  \ \_/ /| |\ \ | |____
+    |_|   \___/ \_| \_|\_____/
+```
 
-## About Me
-I am a highly experienced software developer with a passion for building scalable and efficient web applications. With over 5 years of hands-on experience, I have developed a strong expertise in various technologies and frameworks.
+# Oluwatobi Ekundayo
+**// Full-Stack Engineer · AI Builder · Digital Superhero · Lagos, NG**
 
-## My Stack
-I specialize in a wide range of technologies, including:
+![Profile Views](https://komarev.com/ghpvc/?username=tobitheprof&label=Visitors&color=0e75b6&style=flat)
+[![Twitter](https://img.shields.io/twitter/follow/tobitheprof?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/tobitheprof)
+![Status](https://img.shields.io/badge/status-building%20Puntrr%20AI-brightgreen)
+![XP](https://img.shields.io/badge/XP-5%2B%20years-blueviolet)
 
-- **AWS** and **Azure** for cloud computing and infrastructure management
-- **Django** and **FastAPI** for backend development
-- **LangChain**, **Tensorflow**, **Keras** and **FastAI** for AI and LLM  development
-- **MongoDB** and **PostgreSQL** for database management
-- **React**, **Vue.js**, **Bootstrap**, **Tailwind**, and **Bulma** for frontend development
-- **Selenium**, **Playwright**, **Scrapy**, and **Splash** for web scraping and automation
+---
 
-## Experience
-I have spent the past 5 years honing my skills and delivering high-quality solutions to clients. Through my experience, I have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently.
+## ⚡ Origin Story
 
-Feel free to explore my [GitHub repositories](https://github.com/Tobitheprof) for examples of my work and projects utilizing my diverse skill set.
+> *By day, a mild-mannered software engineer. By night, still a software engineer — but with more coffee.*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobitheprof&label=Profile%20views&color=0e75b6&style=flat" alt="tobitheprof" /> </p>
+Armed with `Python`, `React`, and an unhealthy obsession with clean architecture, I build scalable systems that don't crumble under pressure. Currently shipping **[Puntrr AI](https://puntrr.ai)** and expanding my universe into systems programming, kernel development, and Flutter. The stack grows. The saga continues.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobitheprof" alt="tobitheprof" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/tobitheprof" target="blank"><img src="https://img.shields.io/twitter/follow/tobitheprof?logo=twitter&style=for-the-badge" alt="tobitheprof" /></a> </p>
+## 🦸 Superpowers
 
-- 🔭 I’m currently working on [Puntrr AI](https://puntrr.ai)
+| Power | Abilities |
+|---|---|
+| 🧠 **AI & LLM Engineering** | LangChain · TensorFlow · Keras · FastAI |
+| ⚙️ **Backend Architecture** | Django · FastAPI · Flask · Python |
+| ☁️ **Cloud & DevOps** | AWS · Azure · GCP · Docker |
+| 🎨 **Frontend Craft** | React · Vue.js · Tailwind · Bootstrap · SASS |
+| 🕷️ **Web Scraping & Automation** | Selenium · Playwright · Scrapy · Splash |
+| 🗄️ **Databases** | PostgreSQL · MongoDB · MySQL |
+| 🔬 **Origin Powers (WIP)** | C · C++ · Java · Flutter/Dart · Kernel Dev |
 
-- 🌱 I’m currently learning **Java, Flutter, Dart, Systems Architecture, Kernel Development, C, C++**
+---
 
-- 💬 Ask me about **Python, React, JavaScript, Django, Bootstrap, Tailwind, AWS and Google Cloud**
+## 🛠️ The Full Arsenal
 
-- 📫 How to reach me **tobiekundayo07@gmail.com**
+<details>
+<summary><b>Backend</b></summary>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tobitheprof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobitheprof" height="30" width="40" /></a>
-<a href="https://fb.com/tobi therevolutionary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobi therevolutionary" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobitheprof&hide_progress=true&theme=transparent" width="100%"/>
-</p>
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>AI / ML</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Scraping & Automation</b></summary>
+<br>
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
+
+</details>
+
+---
+
+## 📡 Current Mission Log
+
+- 🟢 **Shipping:** [Puntrr AI](https://puntrr.ai) — building the future of AI-powered sports intelligence
+- 🟡 **Training arc:** C · C++ · Java · Flutter · Dart · Systems Architecture · Kernel Development  
+- 🔵 **Ask me about:** Python · React · Django · AWS · LLMs · scraping at scale
+- 📫 **Reach me:** tobiekundayo07@gmail.com
+
+---
+
+## 📊 Battle Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tobitheprof&show_icons=true&theme=transparent&hide_border=true&title_color=6e40c9&icon_color=6e40c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobitheprof&hide_progress=true&theme=transparent&hide_border=true&title_color=6e40c9" width="48%" />
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tobitheprof&theme=flat&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Find Me in the Multiverse
+
+[![Twitter](https://img.shields.io/badge/@tobitheprof-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tobitheprof)
+[![GitHub](https://img.shields.io/badge/Tobitheprof-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tobitheprof)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiekundayo07@gmail.com)
+
+---
+
+> *"With great stack comes great responsibility."*
